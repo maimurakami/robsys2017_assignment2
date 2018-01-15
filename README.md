@@ -1,6 +1,6 @@
 # robsys2017_assignment2
 1526110 村上舞  
-RaspberryPi3でカウント&LED点滅  
+ROSでカウント&LED点滅  
 カウントは講義でのroslaunchまで行い  
 LEDの点滅はPWM制御を用いて行った  
 ## Demo
