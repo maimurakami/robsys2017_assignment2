@@ -2,7 +2,8 @@
 1526110 村上舞  
 ROSでカウント&LED点滅  
 カウントは講義でのroslaunchまで行い  
-LEDの点滅はPWM制御を用いて行った  
+LEDの点滅はpigpioで制御し  
+PWM制御を用いて緩やかに点滅する  
 ## Demo
 [RaspberryPiでカウント&LED点滅](https://youtu.be/elg05B4Hasg)
 ## Requirements
