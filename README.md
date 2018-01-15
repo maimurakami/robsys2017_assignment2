@@ -5,7 +5,7 @@ RaspberryPi3でカウント&LED点滅(PWM)
 [RaspberryPiでカウント&LED点滅](https://youtu.be/elg05B4Hasg)
 ## Requirements
 + RaspberryPi3  
-  + Ubuntu 
+ + Ubuntu 
 + LED  
 + 抵抗器(10Ω)  
 ## Circuit
