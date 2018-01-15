@@ -1,6 +1,8 @@
 # robsys2017_assignment2
 1526110 村上舞  
-RaspberryPi3でカウント&LED点滅(PWM)
+RaspberryPi3でカウント&LED点滅  
+カウントはtroslaunchで行い  
+LEDの点滅はPWM制御を用いて行った  
 ## Demo
 [RaspberryPiでカウント&LED点滅](https://youtu.be/elg05B4Hasg)
 ## Requirements
